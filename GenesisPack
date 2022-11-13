@@ -19,6 +19,7 @@ More farming oppourtunities with Farmer's Delight.
 Mob Vote mobs from 2020, 2021 and 2022 have made their way into the pack.
 Dungeons, Mineshafts and Strongholds have been improved thanks to YUNG's Better Dungeons, Better Mineshafts and Better Strongholds.
 The Inventory is muuch better thanks to Inventorio.
+The Stamina bar exists! With stamina you can dodge, the more armor you have the less you can dodge (highlighted by the steel feathers).
 
 Misc. changes and additions:
 - Reforming has been given a buff due to durability becoming a chore late-game.
@@ -44,11 +45,11 @@ Todos:
 - Custom Resource Pack that replaces the bleh textures with better ones:
 1) XP Tome
 - Custom Data Pack with mostly recipe changes:
-1) Smithing Table requires Silver
-2) Wood tool -> Stone tool, Gold tool -> Iron Tool -> Diamond tool (2x2 crafting grid)
-3) Crossbow requires Silver
-4) Raw Ore Blocks smelted in a Blast Furnace give Non-Raw Ore Block
-5) Rotten Flesh in a Smoker gives leather
-6) Leather cut with a knife gives rabbit hide
+1) Smithing Table requires Silver DONE
+2) Wood tool -> Stone tool, Gold tool -> Iron Tool -> Diamond tool (2x2 crafting grid) DONE
+3) Crossbow requires Silver DONE
+4) Raw Ore Blocks smelted in a Blast Furnace give Non-Raw Ore Block DONE
+5) Rotten Flesh in a campfire gives leather DONE
+6) Leather cut with a knife gives rabbit hide DONE
 7) Eye of Ender change (Blaze Powder, E. Pearl, Heart of the Sea, Giant Tooth)
 - Echo Shards can be used for a toolset that can instamine deepslate when maxed out, and for a cool storage block. (Echo Extras)
