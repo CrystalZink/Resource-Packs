@@ -44,12 +44,5 @@ Misc. changes and additions:
 Todos:
 - Custom Resource Pack that replaces the bleh textures with better ones:
 1) XP Tome
-- Custom Data Pack with mostly recipe changes:
-1) Smithing Table requires Silver DONE
-2) Wood tool -> Stone tool, Gold tool -> Iron Tool -> Diamond tool (2x2 crafting grid) DONE
-3) Crossbow requires Silver DONE
-4) Raw Ore Blocks smelted in a Blast Furnace give Non-Raw Ore Block DONE
-5) Rotten Flesh in a campfire gives leather DONE
-6) Leather cut with a knife gives rabbit hide DONE
-7) Eye of Ender change (Blaze Powder, E. Pearl, Heart of the Sea, Giant Tooth)
+- Custom Data Pack with mostly recipe changes MOSTLY DONE
 - Echo Shards can be used for a toolset that can instamine deepslate when maxed out, and for a cool storage block. (Echo Extras)
