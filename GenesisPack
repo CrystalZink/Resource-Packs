@@ -12,16 +12,19 @@ DONE:
 - Redid the Panorama to include Regions Unexplored
 - Small tweaks such as making crystals in the cutting board when mined with a pickaxe drop shards, cutting leaves gives saplings gurantee ect.
 - Made tools easier to be upgraded to in the 2x2 grid
+- Add Mining Master
 
 NOT DONE:
-- Add Mining Master
+- Remove Oreganized (pensive)
+- Add Block Swap
+- Swap away some unnecessary blocks from worldgen
 - MM Configs:
 1. Make Ultima Tools End City loot, retexturing them to be Void Tools
 2. Make certain Supra Tools loot in other structures (Ancient City, Bastion, Nether Fortress)
 3. Remove unused Supra Tools
 4. Remove default enchants for gems and replace with other enchants
 5. Make the Gem Forge require Siver
-6. Make Paragon Armor require Electrum Armor
+6. Remove Paragon Armor Recipe
 7. ???
 - Retexture RU Glistening Meadow
 - Retexture RU Mycotoxic Undergrowth
@@ -30,3 +33,5 @@ NOT DONE:
 - Buff Soul Vulture spawns
 - Continue work on Genesis Mob Variants
 - Make Redstone blocks in RU drop cinnabar, and the actual blocks when silk touched
+- Blacklist a load of items from JEI
+- Rebrand Galosphere Silver into "Rusted Iron", adding a blast furnace only recipe to blast it into Iron Ingots (would have been removed but for some reason the galosphere devs thought it would be a great idea to not use loot table injects, ya know, what every other mod dev uses? which makes it impossible to remove it from pillager loottables)
