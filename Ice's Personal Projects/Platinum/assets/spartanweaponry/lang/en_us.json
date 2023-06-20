@@ -1,0 +1,78 @@
+{
+	"item.spartanweaponry.dagger_netherite": "Platinum Dagger", 
+	
+	// Parrying Daggers
+	"item.spartanweaponry.parrying_dagger_netherite": "Platinum Parrying Dagger", 
+
+	
+	// Longswords
+	"item.spartanweaponry.longsword_netherite": "Platinum Longsword",
+
+	
+	// Katanas
+	"item.spartanweaponry.katana_netherite": "Platinum Katana",
+	
+	// Sabers
+	"item.spartanweaponry.saber_netherite": "Platinum Saber",
+
+	// Rapiers
+	"item.spartanweaponry.rapier_netherite": "Platinum Rapier",
+	
+	// Greatswords
+	"item.spartanweaponry.greatsword_netherite": "Platinum Greatsword",
+	
+	// Battle Hammers
+	"item.spartanweaponry.hammer_netherite": "Platinum Battle Hammer",
+	
+	// Warhammers
+	"item.spartanweaponry.warhammer_netherite": "Platinum Warhammer",
+	
+	// Spears
+	"item.spartanweaponry.spear_netherite": "Platinum Spear",
+	
+	// Halberds
+	"item.spartanweaponry.halberd_netherite": "Platinum Halberd",
+	
+	// Pikes
+	"item.spartanweaponry.pike_netherite": "Platinum Pike",
+	
+	// Lances
+	"item.spartanweaponry.lance_netherite": "Platinum Lance",
+	
+	// Longbows
+	"item.spartanweaponry.longbow_netherite": "Platinum-Strengthened Longbow",
+	
+	// Heavy Crossbows
+	"item.spartanweaponry.heavy_crossbow_netherite": "Platinum-Strengthened Heavy Crossbow",
+	
+	// Throwing Knives
+	"item.spartanweaponry.throwing_knife_netherite": "Platinum Throwing Knife",
+	
+	// Tomahawks
+	"item.spartanweaponry.tomahawk_netherite": "Platinum Tomahawk",
+	
+	// Javelins
+	"item.spartanweaponry.javelin_netherite": "Platinum Javelin",
+	
+	// Boomerangs
+	"item.spartanweaponry.boomerang_netherite": "Platinum Boomerang",
+	
+	// Battleaxes
+	"item.spartanweaponry.battleaxe_netherite": "Platinum Battleaxe",
+	
+	// Flanged Maces
+	"item.spartanweaponry.flanged_mace_netherite": "Platinum Flanged Mace",
+	
+	// Glaives
+	"item.spartanweaponry.glaive_netherite": "Platinum Glaive",
+	
+	// Quarterstaves
+	"item.spartanweaponry.quarterstaff_netherite": "Platinum Quarterstaff",
+	
+	// Scythes
+	"item.spartanweaponry.scythe_netherite": "Platinum Scythe",
+	
+	// Arrows
+	// NOTE: The following are not implemented! These might not remain.
+	"item.spartanweaponry.arrow_netherite": "Platinum Arrow"
+}

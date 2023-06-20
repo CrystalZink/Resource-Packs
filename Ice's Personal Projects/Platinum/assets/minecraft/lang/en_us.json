@@ -1,0 +1,21 @@
+{
+  "block.minecraft.netherite_block": "Block of Platinum",
+  "block.minecraft.ancient_debris": "Platinum Debris",
+  "item.minecraft.netherite_scrap": "Platinum Scrap",
+  "item.minecraft.netherite_ingot": "Platinum Ingot",
+  "item.minecraft.netherite_helmet": "Platinum Helmet",
+  "item.minecraft.netherite_chestplate": "Platinum Chestplate",
+  "item.minecraft.netherite_leggings": "Platinum Leggings",
+  "item.minecraft.netherite_boots": "Platinum Boots",
+  "item.minecraft.netherite_axe": "Platinum Axe",
+  "item.minecraft.netherite_pickaxe": "Platinum Pickaxe",
+  "item.minecraft.netherite_hoe": "Platinum Hoe",
+  "item.minecraft.netherite_shovel": "Platinum Shovel",
+  "item.minecraft.netherite_sword": "Platinum Sword",
+  "advancements.husbandry.netherite_hoe.title": "Serious Dedication",
+  "advancements.husbandry.netherite_hoe.description": "Use a Platinum ingot to upgrade a hoe, and then reevaluate your life choices",
+  "advancements.nether.obtain_ancient_debris.title": "Hidden in the Depths",
+  "advancements.nether.obtain_ancient_debris.description": "Obtain Platinum Debris",
+  "advancements.nether.netherite_armor.title": "Cover me in Platinum",
+  "advancements.nether.netherite_armor.description": "Get a full suit of Platinum armor"
+}
