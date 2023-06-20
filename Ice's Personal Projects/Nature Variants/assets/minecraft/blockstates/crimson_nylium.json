@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "minecraft:block/crimson_nylium"
+    },
+	{
+      "model": "minecraft:block/crimson_nylium1"
+    },
+	{
+      "model": "minecraft:block/crimson_nylium2"
+    },
+	{
+      "model": "minecraft:block/crimson_nylium3"
+    }
+	]
+  }
+}

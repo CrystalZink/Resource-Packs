@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "berries=false": [
+{
+      "model": "minecraft:block/cave_vines"
+    }
+],
+    "berries=true": [
+ {
+      "model": "minecraft:block/cave_vines_lit"
+    },
+{
+      "model": "minecraft:block/cave_vines_lit1"
+    },
+{
+      "model": "minecraft:block/cave_vines_lit2"
+    }
+]
+  }
+}
