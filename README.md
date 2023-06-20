@@ -8,7 +8,7 @@
 - Modrinth: https://modrinth.com/user/CrystalZink
 - Planet Minecraft: https://www.planetminecraft.com/member/lcycrystal/
 
-# Links for all the projects in the "Retextured Series" of Resource Packs:
+# Links for the projects in the Retextured Series:
 Retextures o' Plenty:
 - Curseforge: https://www.curseforge.com/minecraft/texture-packs/retextures-o-plenty
 - Modrinth: https://modrinth.com/resourcepack/rop
