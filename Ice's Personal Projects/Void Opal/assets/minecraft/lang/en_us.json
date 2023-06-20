@@ -1,0 +1,21 @@
+{
+  "block.minecraft.netherite_block": "Block of Void Opal",
+  "block.minecraft.ancient_debris": "Void Opal Ore",
+  "item.minecraft.netherite_scrap": "Void Peice",
+  "item.minecraft.netherite_ingot": "Void Opal Gem",
+  "item.minecraft.netherite_helmet": "Void Opal Helmet",
+  "item.minecraft.netherite_chestplate": "Void Opal Chestplate",
+  "item.minecraft.netherite_leggings": "Void Opal Leggings",
+  "item.minecraft.netherite_boots": "Void Opal Boots",
+  "item.minecraft.netherite_axe": "Void Opal Axe",
+  "item.minecraft.netherite_pickaxe": "Void Opal Pickaxe",
+  "item.minecraft.netherite_hoe": "Void Opal Hoe",
+  "item.minecraft.netherite_shovel": "Void Opal Shovel",
+  "item.minecraft.netherite_sword": "Void Opal Sword",
+  "subtitles.item.armor.equip_netherite": "Void Opal armor clanks",
+  "advancements.husbandry.netherite_hoe.description": "Use Void Opal to upgrade a hoe, and then reevaluate your life choices",
+  "advancements.nether.obtain_ancient_debris.title": "Hidden in the Depths",
+  "advancements.nether.obtain_ancient_debris.description": "Obtain Void Opal Ore",
+  "advancements.nether.netherite_armor.title": "One with The Void",
+  "advancements.nether.netherite_armor.description": "Get a full suit of Void Opal armor"
+}
