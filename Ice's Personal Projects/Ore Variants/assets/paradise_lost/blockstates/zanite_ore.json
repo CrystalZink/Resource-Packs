@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "paradise_lost:block/zanite_ore"
+    },
+	{
+      "model": "paradise_lost:block/zanite_ore1"
+    },
+	{
+      "model": "paradise_lost:block/zanite_ore2"
+    }
+	]
+  }
+}

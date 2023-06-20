@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "paradise_lost:block/ambrosium_ore"
+    },
+	{
+      "model": "paradise_lost:block/ambrosium_ore1"
+    },
+	{
+      "model": "paradise_lost:block/ambrosium_ore2"
+    },
+	{
+      "model": "paradise_lost:block/ambrosium_ore3"
+    }
+	]
+  }
+}

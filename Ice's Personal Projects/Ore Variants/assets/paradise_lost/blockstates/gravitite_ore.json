@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "paradise_lost:block/gravitite_ore"
+    },
+	{
+      "model": "paradise_lost:block/gravitite_ore1"
+    },
+	{
+      "model": "paradise_lost:block/gravitite_ore2"
+    }
+	]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+    {
+      "model": "deep_aether:block/skyjade_ore"
+    },
+    {
+      "model": "deep_aether:block/skyjade_ore_0"
+    },
+    {
+      "model": "deep_aether:block/skyjade_ore_1"
+    },
+    {
+      "model": "deep_aether:block/skyjade_ore_2"
+    }
+  ]
+  }
+}
