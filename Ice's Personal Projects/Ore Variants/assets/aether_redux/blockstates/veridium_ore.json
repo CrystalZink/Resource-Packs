@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+    {
+      "model": "aether_redux:block/veridium_ore"
+    },
+    {
+      "model": "aether_redux:block/veridium_ore_0"
+    },
+    {
+      "model": "aether_redux:block/veridium_ore_1"
+    },
+    {
+      "model": "aether_redux:block/veridium_ore_2"
+    },
+    {
+      "model": "aether_redux:block/veridium_ore_3"
+    }
+  ]
+  }
+}
