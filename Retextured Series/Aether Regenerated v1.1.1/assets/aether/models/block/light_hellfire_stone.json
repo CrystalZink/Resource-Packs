@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "aether:block/dungeon/light_hellfire_stone_top",
-    "side": "aether:block/dungeon/light_hellfire_stone"
-  }
-}
