@@ -1,6 +1,6 @@
 ![image](https://github.com/CrystalZink/Resource-Packs/assets/109879348/731abaf4-1d25-4596-8118-60a11c375ebc)
 #
-- Collection of resource packs either from the Retextured Series or personal projects in general.
+- Collection of resource packs either from the Retextured Series, Personal Projects or something inbetween in.
 - Not much to say here, if your here you probably know everything you need to know.
 
 # Links for Ice's (me) Personal Projects:
