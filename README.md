@@ -3,10 +3,10 @@
 - Collection of resource packs either from the Retextured Series, Personal Projects or something inbetween in.
 - Not much to say here, if your here you probably know everything you need to know.
 
-# Links for Ice's (me) Personal Projects:
+# Links for my Personal Projects:
 - Curseforge: https://legacy.curseforge.com/members/icycrystai/projects
 - Modrinth: https://modrinth.com/user/CrystalZink
-- Planet Minecraft: https://www.planetminecraft.com/member/lcycrystal/
+- ~~Planet Minecraft: https://www.planetminecraft.com/member/lcycrystal/~~ This ones no longer used!
 
 # Links for the projects in the Retextured Series:
 Retextures o' Plenty:
