@@ -1,0 +1,69 @@
+{
+    "model": "elemental:thunder_design",
+    "type": "sellable",
+    "styles": {
+        "thunder_sword": [
+            {
+                "tag": "minecraft:swords",
+                "assets": {
+                    "default": "elemental:thunder_sword",
+                    "hand": "elemental:thunder_sword"
+                }
+            }
+        ],
+        "thunder_pickaxe": [
+            {
+                "tag": "minecraft:pickaxes",
+                "assets": {
+                    "default": "elemental:thunder_pickaxe",
+                    "hand": "elemental:thunder_pickaxe"
+                }
+            }
+        ],
+        "thunder_axe": [
+            {
+                "tag": "minecraft:axes",
+                "assets": {
+                    "default": "elemental:thunder_axe",
+                    "hand": "elemental:thunder_axe"
+                }
+            }
+        ],
+        "thunder_shovel": [
+            {
+                "tag": "minecraft:shovels",
+                "assets": {
+                    "default": "elemental:thunder_shovel",
+                    "hand": "elemental:thunder_shovel"
+                }
+            }
+        ],
+        "thunder_hoe": [
+            {
+                "tag": "minecraft:hoes",
+                "assets": {
+                    "default": "elemental:thunder_hoe",
+                    "hand": "elemental:thunder_hoe"
+                }
+            }
+        ],
+        "thunder_bow": [
+            {
+                "item": "minecraft:bow",
+                "assets": {
+                    "default": "elemental:thunder_bow",
+                    "hand": "elemental:thunder_bow"
+                }
+            }
+        ],
+        "thunder_crossbow": [
+            {
+                "item": "minecraft:crossbow",
+                "assets": {
+                    "default": "elemental:thunder_crossbow",
+                    "hand": "elemental:thunder_crossbow"
+                }
+            }
+        ]
+    }
+}

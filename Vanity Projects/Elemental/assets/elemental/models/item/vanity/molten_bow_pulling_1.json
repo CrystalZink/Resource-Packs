@@ -1,0 +1,6 @@
+{
+    "parent": "elemental:item/vanity/molten_bow",
+    "textures": {
+        "layer0": "elemental:item/molten_bow_pulling_1"
+    }
+}

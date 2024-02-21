@@ -1,0 +1,6 @@
+{
+    "parent": "elemental:item/vanity/terra_bow",
+    "textures": {
+        "layer0": "elemental:item/terra_bow_pulling_1"
+    }
+}

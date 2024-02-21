@@ -1,0 +1,6 @@
+{
+    "parent": "elemental:item/vanity/terra_crossbow",
+    "textures": {
+        "layer0": "elemental:item/terra_crossbow_pulling_2"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "elemental:item/vanity/subzero_crossbow",
+    "textures": {
+        "layer0": "elemental:item/subzero_crossbow_pulling_0"
+    }
+}

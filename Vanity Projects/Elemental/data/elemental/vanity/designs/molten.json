@@ -1,0 +1,69 @@
+{
+    "model": "elemental:molten_design",
+    "type": "sellable",
+    "styles": {
+        "molten_sword": [
+            {
+                "tag": "minecraft:swords",
+                "assets": {
+                    "default": "elemental:molten_sword",
+                    "hand": "elemental:molten_sword"
+                }
+            }
+        ],
+        "molten_pickaxe": [
+            {
+                "tag": "minecraft:pickaxes",
+                "assets": {
+                    "default": "elemental:molten_pickaxe",
+                    "hand": "elemental:molten_pickaxe"
+                }
+            }
+        ],
+        "molten_axe": [
+            {
+                "tag": "minecraft:axes",
+                "assets": {
+                    "default": "elemental:molten_axe",
+                    "hand": "elemental:molten_axe"
+                }
+            }
+        ],
+        "molten_shovel": [
+            {
+                "tag": "minecraft:shovels",
+                "assets": {
+                    "default": "elemental:molten_shovel",
+                    "hand": "elemental:molten_shovel"
+                }
+            }
+        ],
+        "molten_hoe": [
+            {
+                "tag": "minecraft:hoes",
+                "assets": {
+                    "default": "elemental:molten_hoe",
+                    "hand": "elemental:molten_hoe"
+                }
+            }
+        ],
+        "molten_bow": [
+            {
+                "item": "minecraft:bow",
+                "assets": {
+                    "default": "elemental:molten_bow",
+                    "hand": "elemental:molten_bow"
+                }
+            }
+        ],
+        "molten_crossbow": [
+            {
+                "item": "minecraft:crossbow",
+                "assets": {
+                    "default": "elemental:molten_crossbow",
+                    "hand": "elemental:molten_crossbow"
+                }
+            }
+        ]
+    }
+}

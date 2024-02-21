@@ -1,0 +1,6 @@
+{
+    "parent": "elemental:item/vanity/thunder_bow",
+    "textures": {
+        "layer0": "elemental:item/thunder_bow_pulling_0"
+    }
+}

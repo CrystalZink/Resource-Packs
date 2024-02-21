@@ -1,0 +1,6 @@
+{
+    "parent": "elemental:item/vanity/thunder_crossbow",
+    "textures": {
+        "layer0": "elemental:item/thunder_crossbow_pulling_1"
+    }
+}

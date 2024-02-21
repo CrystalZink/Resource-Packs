@@ -1,0 +1,15 @@
+{
+    "model": "doom:crucible_design",
+    "type": "sellable",
+    "styles": {
+        "crucible": [
+            {
+                "tag": "minecraft:swords",
+                "assets": {
+                    "default": "doom:crucible_gui",
+                    "hand": "doom:crucible_handheld"
+                }
+            }
+        ]
+    }
+}

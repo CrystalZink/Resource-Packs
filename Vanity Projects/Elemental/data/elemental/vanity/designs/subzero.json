@@ -1,0 +1,69 @@
+{
+    "model": "elemental:subzero_design",
+    "type": "sellable",
+    "styles": {
+        "subzero_sword": [
+            {
+                "tag": "minecraft:swords",
+                "assets": {
+                    "default": "elemental:subzero_sword",
+                    "hand": "elemental:subzero_sword"
+                }
+            }
+        ],
+        "subzero_pickaxe": [
+            {
+                "tag": "minecraft:pickaxes",
+                "assets": {
+                    "default": "elemental:subzero_pickaxe",
+                    "hand": "elemental:subzero_pickaxe"
+                }
+            }
+        ],
+        "subzero_axe": [
+            {
+                "tag": "minecraft:axes",
+                "assets": {
+                    "default": "elemental:subzero_axe",
+                    "hand": "elemental:subzero_axe"
+                }
+            }
+        ],
+        "subzero_shovel": [
+            {
+                "tag": "minecraft:shovels",
+                "assets": {
+                    "default": "elemental:subzero_shovel",
+                    "hand": "elemental:subzero_shovel"
+                }
+            }
+        ],
+        "subzero_hoe": [
+            {
+                "tag": "minecraft:hoes",
+                "assets": {
+                    "default": "elemental:subzero_hoe",
+                    "hand": "elemental:subzero_hoe"
+                }
+            }
+        ],
+        "subzero_bow": [
+            {
+                "item": "minecraft:bow",
+                "assets": {
+                    "default": "elemental:subzero_bow",
+                    "hand": "elemental:subzero_bow"
+                }
+            }
+        ],
+        "subzero_crossbow": [
+            {
+                "item": "minecraft:crossbow",
+                "assets": {
+                    "default": "elemental:subzero_crossbow",
+                    "hand": "elemental:subzero_crossbow"
+                }
+            }
+        ]
+    }
+}

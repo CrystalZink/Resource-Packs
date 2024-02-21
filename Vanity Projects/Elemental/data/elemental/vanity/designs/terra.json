@@ -1,0 +1,69 @@
+{
+    "model": "elemental:terra_design",
+    "type": "sellable",
+    "styles": {
+        "terra_sword": [
+            {
+                "tag": "minecraft:swords",
+                "assets": {
+                    "default": "elemental:terra_sword",
+                    "hand": "elemental:terra_sword"
+                }
+            }
+        ],
+        "terra_pickaxe": [
+            {
+                "tag": "minecraft:pickaxes",
+                "assets": {
+                    "default": "elemental:terra_pickaxe",
+                    "hand": "elemental:terra_pickaxe"
+                }
+            }
+        ],
+        "terra_axe": [
+            {
+                "tag": "minecraft:axes",
+                "assets": {
+                    "default": "elemental:terra_axe",
+                    "hand": "elemental:terra_axe"
+                }
+            }
+        ],
+        "terra_shovel": [
+            {
+                "tag": "minecraft:shovels",
+                "assets": {
+                    "default": "elemental:terra_shovel",
+                    "hand": "elemental:terra_shovel"
+                }
+            }
+        ],
+        "terra_hoe": [
+            {
+                "tag": "minecraft:hoes",
+                "assets": {
+                    "default": "elemental:terra_hoe",
+                    "hand": "elemental:terra_hoe"
+                }
+            }
+        ],
+        "terra_bow": [
+            {
+                "item": "minecraft:bow",
+                "assets": {
+                    "default": "elemental:terra_bow",
+                    "hand": "elemental:terra_bow"
+                }
+            }
+        ],
+        "terra_crossbow": [
+            {
+                "item": "minecraft:crossbow",
+                "assets": {
+                    "default": "elemental:terra_crossbow",
+                    "hand": "elemental:terra_crossbow"
+                }
+            }
+        ]
+    }
+}

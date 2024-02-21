@@ -1,0 +1,6 @@
+{
+    "parent": "elemental:item/vanity/subzero_bow",
+    "textures": {
+        "layer0": "elemental:item/subzero_bow_pulling_1"
+    }
+}
