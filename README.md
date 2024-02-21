@@ -20,4 +20,4 @@ Aether: Regenerated:
 - Planet Minecraft: https://www.planetminecraft.com/texture-pack/aether-regenerated/
 
 Regions ReExplored:
-- Unreleased
+- Scrapped
