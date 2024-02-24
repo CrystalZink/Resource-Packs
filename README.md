@@ -8,16 +8,16 @@
 - Modrinth: https://modrinth.com/user/CrystalZink
 - ~~Planet Minecraft: https://www.planetminecraft.com/member/lcycrystal/~~ This ones no longer used!
 
-# Links for the projects in the Retextured Series:
-Retextures o' Plenty:
+# Links & Statuses for the projects in the Retextured Series:
+Retextures o' Plenty: (Currently being considered for a rework)
 - Curseforge: https://www.curseforge.com/minecraft/texture-packs/retextures-o-plenty
 - Modrinth: https://modrinth.com/resourcepack/rop
-- Planet Minecraft: https://www.planetminecraft.com/texture-pack/retextures-o-plenty/
+- ~~Planet Minecraft: https://www.planetminecraft.com/texture-pack/retextures-o-plenty/~~ This ones no longer used!
 
-Aether: Regenerated:
+Aether: Regenerated: (Hiatus)
 - Curseforge: https://legacy.curseforge.com/minecraft/texture-packs/aether-regenerated
 - Modrinth: https://modrinth.com/resourcepack/aether-regenerated
-- Planet Minecraft: https://www.planetminecraft.com/texture-pack/aether-regenerated/
+- ~~Planet Minecraft: https://www.planetminecraft.com/texture-pack/aether-regenerated/~~ This ones no longer used!
 
 Regions ReExplored:
 - Scrapped
