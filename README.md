@@ -12,12 +12,14 @@
 Retextures o' Plenty: (Currently being considered for a rework)
 - Curseforge: https://www.curseforge.com/minecraft/texture-packs/retextures-o-plenty
 - Modrinth: https://modrinth.com/resourcepack/rop
-- ~~Planet Minecraft: https://www.planetminecraft.com/texture-pack/retextures-o-plenty/~~ This ones no longer used!
 
-Aether: Regenerated: (Hiatus)
+Aether: Regenerated: (1.2 Indev)
 - Curseforge: https://legacy.curseforge.com/minecraft/texture-packs/aether-regenerated
 - Modrinth: https://modrinth.com/resourcepack/aether-regenerated
-- ~~Planet Minecraft: https://www.planetminecraft.com/texture-pack/aether-regenerated/~~ This ones no longer used!
+
+Mining Master Tweaks: (Finished)
+- Curseforge: https://www.curseforge.com/minecraft/texture-packs/mining-master-tweaks
+- Modrinth: https://modrinth.com/resourcepack/mining-master-tweaks
 
 Regions ReExplored:
-- Scrapped
+- Hiatus, don't have the motivation to work on this atm
