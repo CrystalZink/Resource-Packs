@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
+	"render_type": "minecraft:translucent",
 	"textures": {
 		"1": "aether:block/utility/ambrosium_torch_model",
 		"particle": "aether:block/utility/ambrosium_torch_model"
