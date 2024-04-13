@@ -4,7 +4,7 @@
     <img src="https://i.imgur.com/uzHda1n.png">
 </p>
 <p align="center">
-  <b>A Resource pack for Minecraft 1.19.2-1.20.4</b>
+  <b>A Resource pack for Minecraft 1.19.2-1.20.2</b>
 </p>
 
 #
@@ -17,23 +17,23 @@
   Regenerated has support for various addon mods for the Aether, with more coming in the future! Those addons being: <br></p>
     <Table>
         <TR>
-          <TD><p align="center">Addon Mod</p></TD>
+          <TD><p align="center"><b>Addon Mod</b></p></TD>
           <TD>1.19.2</TD>
           <TD>1.19.4 </TD>
           <TD>1.20.1 </TD>
           <TD>1.20.2</TD>
         </TR>
       <TR>
-        <TD><a href="https://www.curseforge.com/minecraft/mc-mods/aether-lost-content">Aether: Lost Content</a></TD>
+        <TD><p align="center"><a href="https://www.curseforge.com/minecraft/mc-mods/aether-lost-content">Aether: Lost Content</a></p></TD>
         <TD>X</TD>
         <TD>✓</TD>
         <TD>✓</TD>
         <TD>X</TD>
       </TR>
       <TR>
-        <TD><a href="https://www.curseforge.com/minecraft/mc-mods/aether-redux">The Aether: Redux</a></TD>
+        <TD><p align="center"><a href="https://www.curseforge.com/minecraft/mc-mods/aether-redux">The Aether: Redux</a></p></TD>
         <TD>✓</TD>
-        <TD>✓</TD>
+        <TD>?</TD>
         <TD>✓</TD>
         <TD>X</TD>
       </TR>
@@ -42,35 +42,35 @@
   Said add-on packs for Regenerated include: <br>
     <Table>
       <TR>
-        <TD><p align="center">Addon Pack</p></TD>
-        <TD>Description...</TD>
-        <TD>Tested On...</TD>
-        <TD>Add-On Support?</TD>
-        <TD>Required Addons?</TD>
+        <TD><p align="center"><b>Addon Pack</b></p></TD>
+        <TD><p align="center">Description...</p></TD>
+        <TD><p align="center">Tested On...</p></TD>
+        <TD><p align="center">Add-On Support?</p></TD>
+        <TD><p align="center">Required Addons?</p></TD>
       </TR>
       <TR>
-        <TD>Vanilla Shaped</TD>
+        <TD><p align="center">Vanilla Shaped</p></TD>
         <TD>Makes the Aether Tools more in-line with Vanilla</TD>
         <TD>1.19.2, 1.19.4, 1.20.1, 1.20.2</TD>
         <TD><a href="https://www.curseforge.com/minecraft/mc-mods/aether-lost-content">Aether: Lost Content</a>, <a href="https://www.curseforge.com/minecraft/mc-mods/aether-redux">The Aether: Redux</a></TD>
         <TD><p align="center"> X </p></TD>
       </TR>
       <TR>
-        <TD>Blue Icestone</TD>
+        <TD><p align="center">Blue Icestone</p></TD>
         <TD>Changes Icestone from White to Blue</TD>
         <TD>1.19.2, 1.19.4, 1.20.1, 1.20.2</TD>
         <TD><p align="center"> X </p></TD>
         <TD><p align="center"> X </p></TD>
       </TR>
       <TR>
-        <TD>Consistent Bushes</TD>
+        <TD><p align="center">Consistent Bushes</p></TD>
         <TD>Changes Aether Berry Bushes to match Vanilla Sweet Berry Bushes</TD>
         <TD>1.19.2, 1.19.4, 1.20.1, 1.20.2</TD>
         <TD><a href="https://www.curseforge.com/minecraft/mc-mods/aether-redux">The Aether: Redux</a></TD>
         <TD><p align="center"> X </p></TD>
       </TR>
       <TR>
-        <TD>Super Infused Veridium</TD>
+        <TD><p align="center">Super Infused Veridium</p></TD>
         <TD>Changes Infused Veridium Tools to be Golden, a reference to a certain Hedgehog...</TD>
         <TD>1.19.2, 1.20.1</TD>
         <TD><a href="https://www.curseforge.com/minecraft/mc-mods/aether-redux">The Aether: Redux</a></TD>
