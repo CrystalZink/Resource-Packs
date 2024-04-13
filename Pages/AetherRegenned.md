@@ -72,7 +72,7 @@
       <TR>
         <TD>Super Infused Veridium</TD>
         <TD>Changes Infused Veridium Tools to be Golden, a reference to a certain Hedgehog...</TD>
-        <TD>1.19.2, 1.19.4, 1.20.1</TD>
+        <TD>1.19.2, 1.20.1</TD>
         <TD><a href="https://www.curseforge.com/minecraft/mc-mods/aether-redux">The Aether: Redux</a></TD>
         <TD><a href="https://www.curseforge.com/minecraft/mc-mods/aether-redux">The Aether: Redux</a></TD>
       </TR>
