@@ -4,7 +4,7 @@
     <img src="https://i.imgur.com/uzHda1n.png">
 </p>
 <p align="center">
-  <b>A Resource pack for Minecraft 1.19.2, 1.20.1, 1.20.2</b>
+  <b>A Resource pack for Minecraft 1.19.2, 1.20.1, 1.20.2, 1.20.4</b>
 </p>
 
 #
@@ -21,11 +21,13 @@
           <TD>1.19.2</TD>
           <TD>1.20.1 </TD>
           <TD>1.20.2</TD>
+          <TD>1.20.4</TD>
         </TR>
       <TR>
         <TD><p align="center"><a href="https://www.curseforge.com/minecraft/mc-mods/aether-lost-content">Aether: Lost Content</a></p></TD>
         <TD>X</TD>
         <TD>✓</TD>
+        <TD>X</TD>
         <TD>X</TD>
       </TR>
       <TR>
@@ -33,6 +35,14 @@
         <TD>✓</TD>
         <TD>✓</TD>
         <TD>X</TD>
+        <TD>X</TD>
+      </TR>
+        <TR>
+        <TD><p align="center"><a href="https://www.curseforge.com/minecraft/mc-mods/aether-emissivity">Aether: Emissivity</a></p></TD>
+        <TD>✓</TD>
+        <TD>✓</TD>
+        <TD>✓</TD>
+        <TD>✓</TD>
       </TR>
     </Table>
   In addition, the pack has a couple of add-on resource packs built in, just open the zip file and head to the "addons" folder & simply drag the folder to ".minecraft/resourcepacks" <br>
@@ -48,21 +58,21 @@
       <TR>
         <TD><p align="center">Vanilla Shaped</p></TD>
         <TD>Makes the Aether Tools more in-line with Vanilla</TD>
-        <TD>1.19.2, 1.20.1, 1.20.2</TD>
-        <TD><a href="https://www.curseforge.com/minecraft/mc-mods/aether-lost-content">Aether: Lost Content</a>, <a href="https://www.curseforge.com/minecraft/mc-mods/aether-redux">The Aether: Redux</a></TD>
+        <TD>1.19.2, 1.20.1, 1.20.2, 1.20.4</TD>
+        <TD><a href="https://www.curseforge.com/minecraft/mc-mods/aether-lost-content">Aether: Lost Content</a>, <a href="https://www.curseforge.com/minecraft/mc-mods/aether-redux">The Aether: Redux, </a>, <a href="https://www.curseforge.com/minecraft/mc-mods/aether-emissivity">Aether: Emissivity</a></TD>
         <TD><p align="center"> X </p></TD>
       </TR>
       <TR>
         <TD><p align="center">Blue Icestone</p></TD>
         <TD>Changes Icestone from White to Blue</TD>
-        <TD>1.19.2, 1.20.1, 1.20.2</TD>
+        <TD>1.19.2, 1.20.1, 1.20.2, 1.20.4</TD>
         <TD><p align="center"> X </p></TD>
         <TD><p align="center"> X </p></TD>
       </TR>
       <TR>
         <TD><p align="center">Consistent Bushes</p></TD>
         <TD>Changes Aether Berry Bushes to match Vanilla Sweet Berry Bushes</TD>
-        <TD>1.19.2, 1.20.1, 1.20.2</TD>
+        <TD>1.19.2, 1.20.1, 1.20.2, 1.20.4</TD>
         <TD><a href="https://www.curseforge.com/minecraft/mc-mods/aether-redux">The Aether: Redux</a></TD>
         <TD><p align="center"> X </p></TD>
       </TR>
