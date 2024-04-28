@@ -15,7 +15,7 @@
 # Retextured Series
 
 - Retextures o' Plenty: 1.5.1
-- Aether: Regenerated: 1.2
+- Aether: Regenerated: 1.2.1
 - Regions ReExplored: 0.0.4
 - Mining Master Tweaks: 2.0
 
