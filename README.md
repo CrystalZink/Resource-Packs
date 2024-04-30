@@ -9,11 +9,11 @@
 - ~~Planet Minecraft: https://www.planetminecraft.com/member/lcycrystal/~~ This ones no longer used!
 
 # Links & Statuses for the projects in the Retextured Series:
-Retextures o' Plenty: (Currently being considered for a rework)
+Retextures o' Plenty: (Currently being reworked...)
 - Curseforge: https://www.curseforge.com/minecraft/texture-packs/retextures-o-plenty
 - Modrinth: https://modrinth.com/resourcepack/rop
 
-Aether: Regenerated: (1.2 Indev)
+Aether: Regenerated: (1.2.1 Out Now!)
 - Curseforge: https://legacy.curseforge.com/minecraft/texture-packs/aether-regenerated
 - Modrinth: https://modrinth.com/resourcepack/aether-regenerated
 
