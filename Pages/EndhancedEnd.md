@@ -1,0 +1,85 @@
+#
+
+<p align="center">
+    <img src="https://i.imgur.com/5CMxWXn.png">
+</p>
+<p align="center">
+  <b>A Resource pack for Minecraft 1.19.2, 1.20.1, 1.21</b>
+</p>
+
+#
+
+<p align="center">
+    <img src="https://i.imgur.com/pWe5jZ9.png">
+</p>
+  <p><b>Endhanced End</b> is a Minecraft Resource Pack that focuses on further updating textures relating to the End Dimension. <br>
+      Currently, the resource pack retextures the Portal Frame, Ender Dragon, Dragon Egg & Chorus Fruit blocks, along with having support for the Ender Trigon mod!<br></p>
+    <Table>
+        <TR>
+          <TD><p align="center"><b>Supports</b></p></TD>
+          <TD>1.19.2</TD>
+          <TD>1.20.1 </TD>
+          <TD>1.20.2</TD>
+          <TD>1.20.4</TD>
+        </TR>
+      <TR>
+        <TD><p align="center"><a href="https://www.curseforge.com/minecraft/mc-mods/aether-lost-content">Aether: Lost Content</a></p></TD>
+        <TD>X</TD>
+        <TD>✓</TD>
+        <TD>X</TD>
+        <TD>X</TD>
+      </TR>
+      <TR>
+        <TD><p align="center"><a href="https://www.curseforge.com/minecraft/mc-mods/aether-redux">The Aether: Redux</a></p></TD>
+        <TD>✓</TD>
+        <TD>✓</TD>
+        <TD>X</TD>
+        <TD>X</TD>
+      </TR>
+        <TR>
+        <TD><p align="center"><a href="https://www.curseforge.com/minecraft/mc-mods/aether-emissivity">Aether: Emissivity</a></p></TD>
+        <TD>✓</TD>
+        <TD>✓</TD>
+        <TD>✓</TD>
+        <TD>✓</TD>
+      </TR>
+    </Table>
+  In addition, the pack has a couple of add-on resource packs built in, just open the zip file and head to the "addons" folder & simply drag the folder to ".minecraft/resourcepacks" <br>
+  Said add-on packs for Regenerated include: <br>
+    <Table>
+      <TR>
+        <TD><p align="center"><b>Addon Pack</b></p></TD>
+        <TD><p align="center">Description...</p></TD>
+        <TD><p align="center">Tested On...</p></TD>
+        <TD><p align="center">Add-On Support?</p></TD>
+        <TD><p align="center">Required Addons?</p></TD>
+      </TR>
+      <TR>
+        <TD><p align="center">Vanilla Shaped</p></TD>
+        <TD>Makes the Aether Tools more in-line with Vanilla</TD>
+        <TD>1.19.2, 1.20.1, 1.20.2, 1.20.4</TD>
+        <TD><a href="https://www.curseforge.com/minecraft/mc-mods/aether-lost-content">Aether: Lost Content</a>, <a href="https://www.curseforge.com/minecraft/mc-mods/aether-redux">The Aether: Redux, </a>, <a href="https://www.curseforge.com/minecraft/mc-mods/aether-emissivity">Aether: Emissivity</a></TD>
+        <TD><p align="center"> X </p></TD>
+      </TR>
+      <TR>
+        <TD><p align="center">Blue Icestone</p></TD>
+        <TD>Changes Icestone from White to Blue</TD>
+        <TD>1.19.2, 1.20.1, 1.20.2, 1.20.4</TD>
+        <TD><p align="center"> X </p></TD>
+        <TD><p align="center"> X </p></TD>
+      </TR>
+      <TR>
+        <TD><p align="center">Consistent Bushes</p></TD>
+        <TD>Changes Aether Berry Bushes to match Vanilla Sweet Berry Bushes</TD>
+        <TD>1.19.2, 1.20.1, 1.20.2, 1.20.4</TD>
+        <TD><a href="https://www.curseforge.com/minecraft/mc-mods/aether-redux">The Aether: Redux</a></TD>
+        <TD><p align="center"> X </p></TD>
+      </TR>
+      <TR>
+        <TD><p align="center">Super Veridium</p></TD>
+        <TD>Changes Infused Veridium Tools to be Golden, a reference to a certain Hedgehog...</TD>
+        <TD>1.19.2, 1.20.1</TD>
+        <TD><a href="https://www.curseforge.com/minecraft/mc-mods/aether-redux">The Aether: Redux</a></TD>
+        <TD><a href="https://www.curseforge.com/minecraft/mc-mods/aether-redux">The Aether: Redux</a></TD>
+      </TR>
+    </Table>
