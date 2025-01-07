@@ -1,0 +1,13 @@
+{
+    "variants": {
+		"": [
+            { "model": "biomesoplenty:block/flesh", "weight":100 },
+			{ "model": "biomesoplenty:block/flesh0", "weight":45 },
+            { "model": "biomesoplenty:block/flesh1", "weight":40 },
+            { "model": "biomesoplenty:block/flesh2", "weight":37 },
+            { "model": "biomesoplenty:block/flesh3", "weight":30 },
+            { "model": "biomesoplenty:block/flesh4", "weight":25 },
+            { "model": "biomesoplenty:block/flesheye", "weight":3  }
+        ]
+    }
+}
