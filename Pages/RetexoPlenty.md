@@ -4,7 +4,7 @@
     <img src="https://files.catbox.moe/x0pvk9.png">
 </p>
 <p align="center">
-  <b>A Resource pack for Minecraft 1.21.10</b>
+  <b>A Resource pack for Minecraft 1.20.1, 1.21.1 & 1.21.10</b>
 </p>
 
 #
