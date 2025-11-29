@@ -1,7 +1,7 @@
 #
 
 <p align="center">
-    <img src="https://i.imgur.com/uzHda1n.png">
+    <img src="https://files.catbox.moe/x0pvk9.png">
 </p>
 <p align="center">
   <b>A Resource pack for Minecraft 1.21.10</b>
@@ -10,6 +10,6 @@
 #
 
 <p align="center">
-    <img src="https://i.imgur.com/4S8OBXT.png">
+    <img src="https://files.catbox.moe/unoyms.png">
 </p>
   <p><b>Place the Holder<br></p>
