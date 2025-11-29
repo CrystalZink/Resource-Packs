@@ -1,0 +1,20 @@
+{
+    "variants": {
+		"": [
+            { "model": "biomesoplenty:block/porous_flesh", "weight":100 },
+			{ "model": "biomesoplenty:block/porous_flesh0", "weight":50 },
+			{ "model": "biomesoplenty:block/porous_flesh1", "weight":75 },
+			{ "model": "biomesoplenty:block/porous_flesh2", "weight":73 },
+			{ "model": "biomesoplenty:block/porous_flesh3", "weight":56 },
+			{ "model": "biomesoplenty:block/porous_flesh4", "weight":53 },
+			{ "model": "biomesoplenty:block/porous_flesh5", "weight":25 },
+			{ "model": "biomesoplenty:block/porous_flesh6", "weight":10 },
+			{ "model": "biomesoplenty:block/porous_flesh7", "weight":15 },
+			{ "model": "biomesoplenty:block/porous_flesh8", "weight":10 },
+			{ "model": "biomesoplenty:block/porous_flesh9", "weight":35 },
+			{ "model": "biomesoplenty:block/porous_flesh10", "weight":40 },
+			{ "model": "biomesoplenty:block/porous_flesh11", "weight":5 },
+			{ "model": "biomesoplenty:block/porous_flesh12", "weight":3 }
+        ]
+    }
+}
