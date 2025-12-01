@@ -4,16 +4,16 @@
 - Not much to say here, if your here you probably know everything you need to know.
 
 # Links for my Personal Projects:
-- Curseforge: https://legacy.curseforge.com/members/icycrystai/projects
+- Curseforge: https://www.curseforge.com/members/icycaeli/projects
 - Modrinth: https://modrinth.com/user/CrystalZink
 - ~~Planet Minecraft: https://www.planetminecraft.com/member/lcycrystal/~~ This ones no longer used!
 
 # Links & Statuses for the projects in the Retextured Series:
-Retextures o' Plenty: (Currently being reworked...)
+Retextures o' Plenty: (2.0 out now!)
 - Curseforge: https://www.curseforge.com/minecraft/texture-packs/retextures-o-plenty
 - Modrinth: https://modrinth.com/resourcepack/rop
 
-Aether: Regenerated: (1.2.1 Out Now!)
+Aether: Regenerated: (Update indev...)
 - Curseforge: https://legacy.curseforge.com/minecraft/texture-packs/aether-regenerated
 - Modrinth: https://modrinth.com/resourcepack/aether-regenerated
 
@@ -22,4 +22,4 @@ Mining Master Tweaks: (Finished)
 - Modrinth: https://modrinth.com/resourcepack/mining-master-tweaks
 
 Regions ReExplored:
-- Hiatus, don't have the motivation to work on this atm
+- Hiatus
