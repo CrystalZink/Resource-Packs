@@ -13,7 +13,7 @@ Retextures o' Plenty: (2.0 out now!)
 - Curseforge: https://www.curseforge.com/minecraft/texture-packs/retextures-o-plenty
 - Modrinth: https://modrinth.com/resourcepack/rop
 
-Aether: Regenerated: (Update indev...)
+Aether: Regenerated: (Update just released!)
 - Curseforge: https://legacy.curseforge.com/minecraft/texture-packs/aether-regenerated
 - Modrinth: https://modrinth.com/resourcepack/aether-regenerated
 
